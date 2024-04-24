@@ -1,12 +1,12 @@
 # Service for getting transactions of ETH
 
 ## Instruction
-###Clone repository
+### Clone repository
 ```bash
 git clone https://github.com/WertoLab/Crypto_test_task.git
 ```
 
-###Enter to directory
+### Enter to directory
 ```bash
 cd Crypto_test_task
 ```
