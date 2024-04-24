@@ -3,12 +3,12 @@
 ## Instruction
 ###Clone repository
 ```bash
-    
+git clone https://github.com/WertoLab/Crypto_test_task.git
 ```
 
 ###Enter to directory
 ```bash
-    
+cd Crypto_test_task
 ```
 
 
